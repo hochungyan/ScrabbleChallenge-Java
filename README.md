@@ -2,6 +2,11 @@
 
 Welcome to the Scrabble challenge!
 =================
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_ScrabbleChallenge-Java&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=hochungyan_ScrabbleChallenge-Java)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_ScrabbleChallenge-Java&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=hochungyan_ScrabbleChallenge-Java)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_ScrabbleChallenge-Java&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=hochungyan_ScrabbleChallenge-Java)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_ScrabbleChallenge-Java&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=hochungyan_ScrabbleChallenge-Java)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=hochungyan_ScrabbleChallenge-Java&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=hochungyan_ScrabbleChallenge-Java)
 ## About the Project
 This project helps us to build up understanding for different concepts, such as Domain Modelling, Testing, Testing Frameworks, Test Driven Development, and we continue to develop our skills in Java. 
 This project is completed around 5th week of our training. It is very similar to the first challenge, however, the code is developed in java instead of javascript. Therefore, we had 1 week to understand the java syntax and create this project.
